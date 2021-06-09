@@ -1,4 +1,3 @@
-
 #Initial set up 
 ##Run only first time
 
@@ -6,9 +5,6 @@ install.packages("devtools")
 install.packages("usethis")
 
 library(devtools)
-
-#dzvoti
-
 
 ###############-----------------------------#################
 
